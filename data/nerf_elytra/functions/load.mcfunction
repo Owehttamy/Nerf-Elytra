@@ -1,0 +1,4 @@
+scoreboard objectives add resetElytraCost trigger "Reset Elytra Cost"
+function nerf_elytra:check_enchants
+function nerf_elytra:check_durability
+function nerf_elytra:enable_trigger
